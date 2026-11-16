@@ -82,8 +82,6 @@ Built an executive dashboard featuring dynamic KPI cards, demographic breakdowns
 │   └── customer_behavior_queries.sql        # 10 analytical SQL queries
 ├── powerbi/
 │   └── Customer_Behavior_Dashboard.pbix     # Interactive Power BI dashboard
-├── assets/
-│   └── dashboard_overview.png               # Dashboard screenshots
 └── README.md                                # Project documentation
 ```
 
