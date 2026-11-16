@@ -1,9 +1,5 @@
 # 🛍️ Customer Shopping Behavior Analysis | End-to-End Data Analytics Project
 
-![Python](https://shields.io)
-![SQL Server](https://shields.io)
-![Power BI](https://shields.io)
-
 ## 📌 Project Overview
 This end-to-end data analytics project explores **3,900 customer transactions** generating **\$233,081 in total revenue** to uncover key drivers of sales, customer loyalty, product performance, and operational bottlenecks. 
 
